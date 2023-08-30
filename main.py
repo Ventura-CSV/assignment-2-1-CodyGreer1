@@ -1,8 +1,14 @@
 def main():
     """
     ##################################################
-    Comlete your code here
-    Use m_perc and f_perc for your results
+    m_perc = 40
+    f_perc = 60
+    m_students = 40
+    f_students = 60
+    total_students = m_students + f_students
+    print (total_students)
+    print (m_perc)
+    print (f_perc)
     ##################################################
     """
 

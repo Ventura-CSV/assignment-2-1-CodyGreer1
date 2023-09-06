@@ -6,7 +6,7 @@ def main():
     
     m_students = int(input())
     f_students = int(input())
-    
+
     total_students = m_students + f_students
     m_perc = m_students / total_students
     f_perc = f_students / total_students
